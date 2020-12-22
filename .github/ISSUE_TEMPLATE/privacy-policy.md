@@ -1,9 +1,7 @@
 ---
-name: Privacy Policy
-about: لمسة - لعبة كلمات و ألغاز
-title: ''
-labels: ''
-assignees: ''
+Privacy Policy
+ لمسة - لعبة كلمات و ألغاز
+
 
 ---
 
